@@ -4,11 +4,13 @@
   <a href="https://github.com/kauanm-b">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauanm-b&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanm-b&layout=compact&langs_count=7&theme=dracula"/>
+    
 </div>
 
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Kauan-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  
+  </div>
   
   <div> 
   <a href="https://instagram.com/_kauanmb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
